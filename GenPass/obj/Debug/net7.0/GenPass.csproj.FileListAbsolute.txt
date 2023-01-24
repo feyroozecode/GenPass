@@ -1,0 +1,15 @@
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\GenPass.csproj.AssemblyReference.cache
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\GenPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\GenPass.AssemblyInfoInputs.cache
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\GenPass.AssemblyInfo.cs
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\GenPass.csproj.CoreCompileInputs.cache
+C:\dev\training\GenPass\GenPass\bin\Debug\net7.0\GenPass.exe
+C:\dev\training\GenPass\GenPass\bin\Debug\net7.0\GenPass.deps.json
+C:\dev\training\GenPass\GenPass\bin\Debug\net7.0\GenPass.runtimeconfig.json
+C:\dev\training\GenPass\GenPass\bin\Debug\net7.0\GenPass.dll
+C:\dev\training\GenPass\GenPass\bin\Debug\net7.0\GenPass.pdb
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\GenPass.dll
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\refint\GenPass.dll
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\GenPass.pdb
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\GenPass.genruntimeconfig.cache
+C:\dev\training\GenPass\GenPass\obj\Debug\net7.0\ref\GenPass.dll
